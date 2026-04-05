@@ -35,10 +35,7 @@ Tools & Environments: Git, GitHub, VS Code, IntelliJ IDEA, PyCharm
 Systems & Concepts: Data Structures and Algorithms, Object-Oriented Design
 
 
-## Video
 
-<video width="320" height="240" controls>
-  <source src="ill-be-ready-to-work-cameron-vo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Ready to Work](ill-be-ready-to-work-cameron-vo.gif)
 
