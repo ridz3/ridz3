@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+####        AI/ML Engineer | Turning complex models into real-world intelligent systems 
+
+
+B.Tech CSE (AI & ML) student with hands-on experience in computer vision, explainable AI, and real-world ML systems. Built projects from scratch (often without heavy abstractions) to deeply understand model behavior, passionate about solving practical problems using AI that actually works outside notebooks.
+
+->Build ML models from scratch to understand core logic, not just use libraries
+->Focus on real-world problems, not just benchmark datasets
+->Combine technical depth + practical application
+->Strong interest in interpretable and trustworthy AI
