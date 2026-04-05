@@ -19,23 +19,23 @@ Here are some ideas to get you started:
 
 B.Tech CSE (AI & ML) student with hands-on experience in computer vision, explainable AI, and real-world ML systems. Built projects from scratch (often without heavy abstractions) to deeply understand model behavior, passionate about solving practical problems using AI that actually works outside notebooks.
 
-->Build ML models from scratch to understand core logic, not just use libraries
-->Focus on real-world problems, not just benchmark datasets
-->Combine technical depth + practical application
-->Strong interest in interpretable and trustworthy AI
+-Build ML models from scratch to understand core logic, not just use libraries
+-Focus on real-world problems, not just benchmark datasets
+-Combine technical depth + practical application
+-Strong interest in interpretable and trustworthy AI
 
 
 
 ## Technical Skills
 
-Programming Languages: Java, Python, C, SQL
-Backend & Databases: Flask, Firebase Firestore, REST APIs, MySQL
-Machine Learning: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
-Tools & Environments: Git, GitHub, VS Code, IntelliJ IDEA, PyCharm
-Systems & Concepts: Data Structures and Algorithms, Object-Oriented Design
+- Programming Languages: Java, Python, C, SQL
+- Backend & Databases: Flask, Firebase Firestore, REST APIs, MySQL
+- Machine Learning: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
+- Tools & Environments: Git, GitHub, VS Code, IntelliJ IDEA, PyCharm
+- Systems & Concepts: Data Structures and Algorithms, Object-Oriented Design
 
 
 
 
-![Ready to Work](ill-be-ready-to-work-cameron-vo.gif)
+<p align="center">![Ready to Work](ill-be-ready-to-work-cameron-vo.gif)</p>
 
